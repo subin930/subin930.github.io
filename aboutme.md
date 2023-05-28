@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Do you want to know about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is SubinOh. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+-Skills
+<img src="https://simpleicons.org/icons/python.svg?style=flat-square&logo=Android&logoColor=#3776AB"/> 
+<img src="https://simpleicons.org/icons/javascript.svg?style=flat-square&logo=Android&logoColor=#F7DF1E"/>
+<img src="https://simpleicons.org/icons/c.svg?style=flat-square&logo=Android&logoColor=#A8B9CC"/>
+-Education
+  -Sungkyunkwan University
+- Achievements and Certifications: I don't have.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a developer who always works hard.
